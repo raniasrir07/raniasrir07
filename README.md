@@ -7,7 +7,7 @@
 *Building intelligent data pipelines, applied AI solutions, and real-time web systems.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-raniasrir07.github.io-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://raniasrir07.github.io)
-[![Email](https://img.shields.io/badge/Email-raniasrir07%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raniasrir07@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-Get%20in%20Touch-1E293B?style=for-the-badge&logo=gmail&logoColor=white)](https://raniasrir07.github.io/#contact)
 
 </div>
 
